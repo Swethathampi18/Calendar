@@ -1,7 +1,7 @@
 # Wall Calendar
 
-# Wall-Calendar
-# 📅 Wall Calendar
+
+
 
 An interactive, polished wall-calendar React component with day-range selection, integrated notes, dark mode, and responsive layout — built to match the physical wall-calendar aesthetic from the design brief.
 
